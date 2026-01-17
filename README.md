@@ -19,17 +19,56 @@ I am motivated by continuous learning and improving my skills through real-world
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/><br/>
+    <sub>Kotlin</sub>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/><br/>
+    <sub>Android</sub>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>
+    <sub>Java</sub>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/><br/>
+    <sub>C#</sub>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/><br/>
+    <sub>.NET</sub>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>
+    <sub>Python</sub>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br/>
+    <sub>SQL</sub>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/><br/>
+    <sub>Flutter</sub>
+  </div>
+
+  <div style="display:inline-block; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br/>
+    <sub>Git</sub>
+  </div>
+
 </p>
+
 
 ---
 
@@ -55,10 +94,12 @@ I am motivated by continuous learning and improving my skills through real-world
 <a href="https://www.linkedin.com/in/riza-efe-donmez" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://leetcode.com/u/redus0/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
 </p>
+
+---
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
