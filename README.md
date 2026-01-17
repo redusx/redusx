@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rıza Efe Dönmez</h1>
-<h3 align="center">Android Developer | Information Systems & Technologies Student</h3>
+<h3 align="center">Mobile Developer | Information Systems & Technologies Student</h3>
 
 ---
 
 ## 🙋‍♂️ Who I Am
-I am an Android Developer and an Information Systems & Technologies student who enjoys turning ideas into real, usable mobile applications.  
+I am an Mobile Developer and an Information Systems & Technologies student who enjoys turning ideas into real, usable mobile applications.  
 I focus on writing clean, maintainable code and building user-friendly interfaces.  
 I am motivated by continuous learning and improving my skills through real-world projects and experimentation.
 
@@ -55,5 +55,10 @@ I am motivated by continuous learning and improving my skills through real-world
 <a href="https://www.linkedin.com/in/riza-efe-donmez" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://leetcode.com/u/redus0/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 
 </p>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
