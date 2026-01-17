@@ -46,7 +46,6 @@
   <a href="https://medium.com/@donmezrizaefe" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="35"/>
   </a>
-  <a href="mailto:donmezrizaefe@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="35"/>
-  </a>
+    <a href="mailto:donmezrizaefe@gmail.com?subject=Hello%20Rıza,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
