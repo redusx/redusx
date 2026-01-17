@@ -33,19 +33,17 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=redusx&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=redusx&show_icons=true&hide_border=true"/>
 </p>
+
 
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
+<p align="center" align='right'>
+  <a href="mailto:donmezrizaefe@gmail.com?subject=Hello%20Rıza,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://medium.com/@donmezrizaefe"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="www.linkedin.com/in/rıza-efe-dönmez" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
-  <a href="https://medium.com/@donmezrizaefe" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="35"/>
-  </a>
-    <a href="mailto:donmezrizaefe@gmail.com?subject=Hello%20Rıza,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
